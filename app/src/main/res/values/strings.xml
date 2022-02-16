@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="get_pow">get pow</string>
+    <string name="_0">0</string>
+    <string name="get_counter">get counter</string>
+</resources>
